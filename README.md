@@ -1,2 +1,2 @@
 # recipebook
-Search for recipes and see the description (MERN stack)
+Search for recipes and see the description (NodeJS)
