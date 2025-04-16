@@ -1,2 +1,2 @@
 # recipebook
-Search for recipes and see the description (NodeJS)
+Search for recipes and see the description (NextJS)
